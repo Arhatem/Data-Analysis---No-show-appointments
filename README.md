@@ -5,21 +5,23 @@ The project was about analyzing a specific dataset using the Python libraries Nu
 The dataset which I analyzed is (No-show appointments) from Kaggle,
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row. You can know more details from Kaggle
 
-##Context
+## Context
 
 A person makes a doctor appointment, receives all the instructions and no-show. Who to blame?
 If this help you studying or working, please don´t forget to upvote :). Reference to Joni Hoppen and Aquarela Advanced Analytics Aquarela
 
 Greetings!
 
-##Content
+## Content
 
 110.527 medical appointments its 14 associated variables (characteristics). The most important one if the patient show-up or no-show to the appointment. Variable names are self-explanatory, if you have doubts, just let me know!
 
 scholarship variable means this concept = https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia
 
 14 variables
-##Data Dictionary
+
+## Data Dictionary
+
 01 - PatientId
 
     Identification of a patient
